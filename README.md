@@ -1,3 +1,4 @@
+<img width="1436" height="830" alt="Acid Drum 909 V1 0 2" src="https://github.com/user-attachments/assets/0e77acd8-b5b0-4877-b9ae-79941dc6c178" />
 # Acid Drum 909
 
 **Free Windows VST3 drum machine by Burnout Theory — v1.0.2**
